@@ -1,0 +1,4 @@
+accessing
+queryAssociation
+
+	^ queryAssociation

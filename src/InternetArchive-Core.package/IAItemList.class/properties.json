@@ -1,0 +1,15 @@
+{
+	"category" : "InternetArchive-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items",
+		"byFormat" ],
+	"name" : "IAItemList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

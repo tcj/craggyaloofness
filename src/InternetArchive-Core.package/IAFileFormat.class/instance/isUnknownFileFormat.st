@@ -1,0 +1,3 @@
+testing
+isUnknownFileFormat
+	self subclassResponsibility.

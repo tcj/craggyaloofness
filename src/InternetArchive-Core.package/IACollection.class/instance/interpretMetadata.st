@@ -1,0 +1,3 @@
+private
+interpretMetadata
+	super interpretMetadata.

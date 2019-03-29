@@ -1,0 +1,18 @@
+{
+	"category" : "InternetArchive-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"item",
+		"file",
+		"url",
+		"response",
+		"content" ],
+	"name" : "IADownload",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

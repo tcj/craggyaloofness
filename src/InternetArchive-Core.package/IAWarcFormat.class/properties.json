@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Core-FileFormats",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IAWarcFormat",
+	"pools" : [
+		 ],
+	"super" : "IAKnownFileFormat",
+	"type" : "normal" }

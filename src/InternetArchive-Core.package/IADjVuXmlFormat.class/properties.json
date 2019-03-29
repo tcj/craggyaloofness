@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Core-FileFormats",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IADjVuXmlFormat",
+	"pools" : [
+		 ],
+	"super" : "IAKnownFileFormat",
+	"type" : "normal" }

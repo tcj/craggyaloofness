@@ -1,0 +1,4 @@
+downloading
+saveToDisk
+	^ self saveFileToDefaultPath
+	

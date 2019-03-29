@@ -1,0 +1,16 @@
+{
+	"category" : "InternetArchive-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/24/2019 16:37",
+	"instvars" : [
+		"unk1",
+		"unk2",
+		"formatString" ],
+	"name" : "IAUnknownFileFormatTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

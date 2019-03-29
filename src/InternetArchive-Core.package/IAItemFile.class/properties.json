@@ -1,0 +1,31 @@
+{
+	"category" : "InternetArchive-Core",
+	"classinstvars" : [
+		"reservedWordsMap" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/24/2019 14:57",
+	"instvars" : [
+		"crc32",
+		"format",
+		"md5",
+		"mtime",
+		"fileName",
+		"sha1",
+		"bytes",
+		"source",
+		"btih",
+		"length",
+		"original",
+		"height",
+		"width",
+		"title",
+		"private",
+		"rotation",
+		"jsonKeysNotUnderstood",
+		"item" ],
+	"name" : "IAItemFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

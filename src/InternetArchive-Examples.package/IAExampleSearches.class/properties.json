@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IAExampleSearches",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

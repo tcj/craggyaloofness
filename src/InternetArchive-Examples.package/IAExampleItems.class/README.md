@@ -1,0 +1,2 @@
+IAExampleItems djVuText thumbnailDownload displayJpegInWindow
+

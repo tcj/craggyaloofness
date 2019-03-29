@@ -1,0 +1,17 @@
+{
+	"category" : "InternetArchive-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/24/2019 15:00",
+	"instvars" : [
+		"identifier",
+		"files",
+		"json",
+		"created" ],
+	"name" : "IAItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

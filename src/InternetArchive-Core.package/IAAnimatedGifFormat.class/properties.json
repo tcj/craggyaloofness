@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Core-FileFormats",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IAAnimatedGifFormat",
+	"pools" : [
+		 ],
+	"super" : "IAKnownFileFormat",
+	"type" : "normal" }

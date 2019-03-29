@@ -1,0 +1,15 @@
+{
+	"category" : "InternetArchive-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"known1",
+		"format1" ],
+	"name" : "IAKnownFileFormatTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromSearch:" : "tcj 4/28/2018 09:21",
+		"fromString:" : "tcj 2/25/2019 10:12" },
+	"instance" : {
+		"addAllItems:" : "tcj 4/28/2018 09:18",
+		"addItem:" : "tcj 4/28/2018 10:05",
+		"allFilesWithExtension:" : "tcj 4/28/2018 10:10",
+		"byFormat" : "tcj 2/25/2019 09:49",
+		"byFormat:" : "tcj 2/25/2019 09:49",
+		"fileFormats" : "tcj 4/28/2018 10:08",
+		"filesOfFormat:" : "tcj 2/25/2019 10:34",
+		"findItemWithFormat:" : "tcj 4/28/2018 10:46",
+		"initThumbForm" : "tcj 2/25/2019 09:37",
+		"initialize" : "tcj 4/28/2018 09:11",
+		"itemFileFormatTally" : "tcj 4/28/2018 10:08",
+		"itemMediatypes" : "tcj 4/28/2018 10:10",
+		"items" : "tcj 2/25/2019 09:49",
+		"items:" : "tcj 2/25/2019 09:49",
+		"itemsSortedByNewness" : "tcj 4/28/2018 10:12",
+		"itemsWithFormat:" : "tcj 2/25/2019 10:32",
+		"viewItemTiles" : "tcj 2/25/2019 09:48" } }

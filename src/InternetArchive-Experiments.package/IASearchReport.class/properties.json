@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Experiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"search" ],
+	"name" : "IASearchReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

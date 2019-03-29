@@ -1,0 +1,20 @@
+{
+	"category" : "InternetArchive-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/25/2019 15:20",
+	"instvars" : [
+		"fullUrl",
+		"identifiers",
+		"queryAssociation",
+		"json",
+		"limit",
+		"items",
+		"currentPageNumber" ],
+	"name" : "IASearch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

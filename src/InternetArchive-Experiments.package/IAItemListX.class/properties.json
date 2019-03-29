@@ -1,0 +1,14 @@
+{
+	"category" : "InternetArchive-Experiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"itemsByIdentifier" ],
+	"name" : "IAItemListX",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
