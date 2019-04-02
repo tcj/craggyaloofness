@@ -27,4 +27,4 @@ More explicit instructions forthcoming.
 
 * I don't recommend trying the IADemo class right now because it depends on an outside package.  
 * This whole InternetArchive package might require JSON-tonyg.39.mcz from http://www.squeaksource.com/JSON/
-** Edit: Actually, the JSON package just got added to my last commit somehow.  Hmm.
+* Edit: Actually, the JSON package just got added to my last commit somehow.  Hmm.
