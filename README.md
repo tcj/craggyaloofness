@@ -9,6 +9,10 @@ To display the thumbnail for the 1981 Byte Magazine issue with the famous Smallt
 
 `(IAItem named: 'byte-magazine-1981-08' ) displayItemTileJpeg`
 
+The "name" should be an Internet Archive item identifier, which is what comes after the `/details/` in an item URL, like the following:  `https://archive.org/details/byte-magazine-1981-08`
+
+Collections are also supported:  `https://archive.org/details/byte-magazine`
+
 ## How to load into Squeak 5.2
 
 Make sure you have Metacello using the first item in your Do menu.
