@@ -1,0 +1,14 @@
+{
+	"category" : "JSON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tonyg 4/29/2016 11:06",
+	"instvars" : [
+		 ],
+	"name" : "JsonInvalidError",
+	"pools" : [
+		 ],
+	"super" : "JsonSyntaxError",
+	"type" : "normal" }

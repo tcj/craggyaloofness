@@ -1,0 +1,14 @@
+{
+	"category" : "JSON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "JsonTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

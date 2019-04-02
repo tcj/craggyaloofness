@@ -1,0 +1,16 @@
+{
+	"category" : "JSON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b",
+		"c" ],
+	"name" : "JsonDummyTestObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

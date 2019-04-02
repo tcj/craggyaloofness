@@ -1,0 +1,14 @@
+{
+	"category" : "JSON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JsonObject",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }
