@@ -18,3 +18,8 @@ Then clone this repo to your disk.
 Then add the 'src' directory in this repo as a filetree:// repo in a Monticello browser.
 
 More explicit instructions forthcoming.
+
+## Caveats
+
+* I don't recommend trying the IADemo class right now because it depends on an outside package.  
+* This whole InternetArchive package might require JSON-tonyg.39.mcz from http://www.squeaksource.com/JSON/
