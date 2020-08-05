@@ -1,9 +1,10 @@
 metadata
 fetchMetadata
-	| webResponse | 
-	webResponse := WebClient new httpGet: self metadataUrl.
-	( webResponse code = 200 )
-		ifTrue: [
-			json := Json readFrom: webResponse contentStream.
-			webResponse close ]
-		ifFalse: [ self error: 'could not read metadata' ].
+	| result | 
+	result := WebClient httpRequest: #GET 
+		url: self metadataUrl headers: #() content: nil response: nil.
+	^ (result respondsTo: #contentType)
+		ifTrue: [ " is MIMEDocument so request was successful"
+				json := Json readFrom: result contentStream]
+		ifFalse: [ "is String with contents so request was unsuccessful"
+				self error: 'could not read metadata' ]
